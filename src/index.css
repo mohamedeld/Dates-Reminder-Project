@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 64.5%;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header{
+    height: 100vh;
+    overflow: hidden;
+}
+.font{
+    font-family: 'Roboto', sans-serif;
+    font-size: 2rem;
+}
+.rectangle{
+    
+    height: 600px;
+    border-radius: 15px;
+    background-color: #fff;
+    box-shadow: 1px 4px 4px 1px rgba(85,85,85,.25);
+}
+.date_counts{
+    color:#555;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.myimg{
+    width:60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.btn_style{
+    border:none;
+    outline:none;
+    width:200px;
+    background:#224f61;
+    color:#fff;
+    border-radius: 8px;
+}
